@@ -210,7 +210,7 @@ footer{border-top:1px solid var(--line);padding:20px 0;color:#8297ad;font-size:1
         </div>
       </article>
 
-      <article class="project" data-category="bi">
+   <article class="project" data-category="bi">
         <div class="visual blue"><span class="visual-label">02 · BUSINESS INTELLIGENCE / INTERACTIVE DASHBOARD</span><div class="orbit"><i class="core"></i></div></div>
         <div class="project-body">
           <div class="project-meta"><span class="project-type">HTML · CSS · JavaScript</span><span class="project-number">PROJETO 02</span></div>
@@ -222,8 +222,7 @@ footer{border-top:1px solid var(--line);padding:20px 0;color:#8297ad;font-size:1
           <p class="note">Projeto acadêmico demonstrativo, não oficial da Toyota. Os dados e períodos estão identificados no próprio painel.</p>
         </div>
       </article>
-
-      <article class="project" data-category="sql">
+    <article class="project" data-category="sql">
         <div class="visual gold"><span class="visual-label">03 · DATABASE / ORACLE SQL</span><div class="sql-graphic"><i></i><i></i><i></i><i></i><i></i></div></div>
         <div class="project-body">
           <div class="project-meta"><span class="project-type">SQL · Oracle SQL Developer</span><span class="project-number">PROJETO 03</span></div>
@@ -235,8 +234,7 @@ footer{border-top:1px solid var(--line);padding:20px 0;color:#8297ad;font-size:1
           <p class="note">O script pressupõe a existência das tabelas e relacionamentos do banco de pedidos usado na atividade.</p>
         </div>
       </article>
-
-      <article class="project" data-category="bi">
+     <article class="project" data-category="bi">
         <div class="visual"><span class="visual-label">04 · DATA ARCHITECTURE / STUDY</span><div class="bars"><i class="bar blue" style="height:45%"></i><i class="bar blue" style="height:73%"></i><i class="bar blue" style="height:91%"></i><i class="bar gold" style="height:65%"></i><i class="bar gold" style="height:83%"></i></div></div>
         <div class="project-body">
           <div class="project-meta"><span class="project-type">Arquitetura de dados · Pesquisa</span><span class="project-number">PROJETO 04</span></div>
